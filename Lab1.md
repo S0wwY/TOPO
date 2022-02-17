@@ -26,7 +26,7 @@
   ## Build 2
     SMOKE + DV + RT[1,2,3] + NFT[4]
   ## Build 3
-    SMOKE + IT + RT[1,2,3,4]
+    SMOKE + IT + LT
    ## Build 4
     SMOKE + PT
     
